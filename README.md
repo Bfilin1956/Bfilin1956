@@ -1,4 +1,3 @@
-# <------- ROMAN LEVICHEV
 # Hello! I'm a C++ Backend Developer 👋
 
 My journey has not been easy: pointers, STL, third-party libraries — all of this seemed unreachable at first. Over time, I mastered and used:
