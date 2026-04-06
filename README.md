@@ -15,10 +15,7 @@ My journey has not been easy: pointers, STL, third-party libraries — all of th
 - Built system-level HFT bots  
 - Solved complex problems on LeetCode/CodeWars  
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bfilin1956&show_icons=true&theme=radical)
-
 ## 📫 Contact
-- Email: levichef.roman@gmail.com
-- LinkedIn: [linkedin.com/](https://linkedin.com/)  
-- Telegram: [@DarkFilin1](https://t.me/DarkFilin1)
+- Email: bfilin1956@gmail.com
+- LinkedIn: [linkedin.com/](https://linkedin.com/) Later  
+- Telegram: [@cppdev1956](https://t.me/cppdev1956)
