@@ -49,7 +49,7 @@ C++ implementation of the Stratum V2 protocol with focus on secure communication
 
 **Tech:** C++20, networking, cryptography, binary protocols  
 
-👉 [View repository](/Cpp-StratumV2)
+👉 [View repository](https://github.com/Bfilin1956/Cpp-StratumV2)
 
 ## Tech Stack
 - **Languages:** C++20  
