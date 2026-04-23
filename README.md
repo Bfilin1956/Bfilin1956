@@ -20,7 +20,7 @@ High-performance asynchronous TCP server built with modern C++20 and Boost.Asio.
 
 **Tech:** C++20, Boost.Asio, coroutines, TCP/IP  
 
-👉 [View repository](#)
+👉 [View repository](https://github.com/Bfilin1956/Cpp-Async-Server-asio)
 
 ---
 
@@ -35,7 +35,7 @@ Lightweight 3D engine written in C++ using OpenGL, focused on low-level renderin
 
 **Tech:** C++20, OpenGL, Assimp  
 
-👉 [View repository](#)
+👉 [View repository](https://github.com/Bfilin1956/CPP-OpenGL-game-engine)
 
 ---
 
