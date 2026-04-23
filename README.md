@@ -11,22 +11,45 @@ C++ developer focused on high-performance networking and asynchronous systems.
 ## Projects
 
 ### Async Server (Boost.Asio)
-- High-performance TCP server using coroutines
-- Scalable architecture for handling multiple concurrent connections
-- Focus on low-latency message processing  
+High-performance asynchronous TCP server built with modern C++20 and Boost.Asio.
+
+- Coroutine-based architecture (co_await) with non-blocking I/O  
+- Scalable connection handling (event-driven model)  
+- Optimized message processing with batching techniques  
+- Focus on low-latency and efficient resource usage  
+
+**Tech:** C++20, Boost.Asio, coroutines, TCP/IP  
 
 👉 [View repository](#)
 
 ---
 
-### Client-Server Application
-- Custom protocol over TCP
-- Data serialization (Protocol Buffers)
-- Integration with PostgreSQL / Redis  
+### OpenGL 3D Engine
+Lightweight 3D engine written in C++ using OpenGL, focused on low-level rendering and graphics pipeline understanding.
+
+- Custom rendering pipeline with batching optimization  
+- Shader system and basic lighting models  
+- Model loading via Assimp (.obj support)  
+- Camera, transform, and scene management systems  
+- Input handling and resource management  
+
+**Tech:** C++20, OpenGL, Assimp  
 
 👉 [View repository](#)
 
 ---
+
+### Stratum V2 Protocol Implementation
+C++ implementation of the Stratum V2 protocol with focus on secure communication and handshake logic.
+
+- Implementation of multi-step key exchange (TLS-like handshake)  
+- Secure session establishment and certificate validation  
+- Binary protocol handling over TCP  
+- Emphasis on correctness and low-level control of networking  
+
+**Tech:** C++20, networking, cryptography, binary protocols  
+
+👉 [View repository](/Cpp-StratumV2)
 
 ## Tech Stack
 - **Languages:** C++20  
