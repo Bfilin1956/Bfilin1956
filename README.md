@@ -1,21 +1,41 @@
-# Hello! I'm a C++ Backend Developer 👋
+# C++ Backend Developer
 
-My journey has not been easy: pointers, STL, third-party libraries — all of this seemed unreachable at first. Over time, I mastered and used:
+C++ developer focused on high-performance networking and asynchronous systems.
 
-## 🛠 Technologies & Tools
-- **Languages & Standards:** C++11–C++20  
-- **Libraries:** full STL, Boost, Boost.Asio  
-- **Graphics & UI:** OpenGL, Vulkan, Qt  
-- **System & Low-level:** DPDK, KernelDriver (Windows), Linux/Windows API  
-- **Performance:** low-latency code, system optimization  
+## Core Expertise
+- Asynchronous programming (Boost.Asio, coroutines)
+- TCP/IP networking, TLS (OpenSSL)
+- Multithreading and concurrency
+- Performance optimization (latency / throughput)
 
-## 🚀 Experience & Projects
-- Backend development with Boost.Asio: introduced new systems, optimized and improved existing solutions  
-- Developed small indie games  
-- Built system-level HFT bots  
-- Solved complex problems on LeetCode/CodeWars  
+## Projects
 
-## 📫 Contact
-- Email: bfilin1956@gmail.com
-- LinkedIn: [linkedin.com/](https://linkedin.com/) Later  
-- Telegram: [@cppdev1956](https://t.me/cppdev1956)
+### Async Server (Boost.Asio)
+- High-performance TCP server using coroutines
+- Scalable architecture for handling multiple concurrent connections
+- Focus on low-latency message processing  
+
+👉 [View repository](#)
+
+---
+
+### Client-Server Application
+- Custom protocol over TCP
+- Data serialization (Protocol Buffers)
+- Integration with PostgreSQL / Redis  
+
+👉 [View repository](#)
+
+---
+
+## Tech Stack
+- **Languages:** C++20  
+- **Networking:** Boost.Asio, TCP/IP, TLS  
+- **Concurrency:** coroutines, multithreading  
+- **Databases:** PostgreSQL, Redis  
+- **Tools:** CMake, Docker, Git  
+
+## Contact
+- Email: bfilin1956@gmail.com  
+- LinkedIn: https://linkedin.com/in/bfilin1956/  
+- Telegram: https://t.me/cppdev1956
