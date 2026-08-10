@@ -72,5 +72,5 @@ Low-level implementation of Stratum V2 protocol with emphasis on transport corre
 
 ## Contact
 - Email: bfilin1956@gmail.com  
-- LinkedIn: https://linkedin.com/in/bfilin1956/  
+- LinkedIn: #  
 - Telegram: https://t.me/cppdev1956
